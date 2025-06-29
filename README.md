@@ -15,7 +15,6 @@ A simple backend system to manage books in a small library. It allows users to *
 - 📄 API response contains book details including genre and published year  
 - 🛡️ Field validation and global error handling  
 - 🧪 REST API testable with Postman  
-- 📄 *(Optional)* Swagger UI documentation
 
 ---
 
@@ -27,7 +26,6 @@ A simple backend system to manage books in a small library. It allows users to *
 - **MySQL**
 - **Apache Maven**
 - **Postman**
-- *(Optional)* Springdoc OpenAPI for Swagger UI
 
 ---
 
